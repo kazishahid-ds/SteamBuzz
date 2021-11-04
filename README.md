@@ -1,6 +1,6 @@
 PROJECT STEAMBUZZ
 -----------------
-Using supervised and unsupervised machine learning techniques, these models reliably predict gamers’ response to future games and identify game elements to improve. This project was my capstone project for Data Science degree. This project repository contains the following:
+Using supervised and unsupervised machine learning techniques, I have trained models to reliably predict gamers’ response to future games and identify game elements to improve. This project was my Data Science degree's capstone project, containing the following:
 
 (i) Jupyter Notebooks
 ---------------------

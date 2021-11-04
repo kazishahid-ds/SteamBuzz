@@ -14,7 +14,7 @@ Using supervised and unsupervised machine learning techniques, I have trained mo
 07 - Part 4c_Sentiment Analysis ML Model 3_Multinomial Naive Bayes Classifier.ipynb \
 08 - Part 4d_Sentiment Analysis ML Model 4_Support Vector Machines.ipynb \
 09 - Part 4e_Sentiment Analysis_ML Models Comparison.ipynb \
-10 - Part 5_Neural Network (Word2Vec).ipynb \
+10 - Part 5_Neural Network (Word2Vec).ipynb
 
 (ii) Data files
 ---------------

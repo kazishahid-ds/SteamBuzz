@@ -18,7 +18,7 @@ Using supervised and unsupervised machine learning techniques, I have trained mo
 
 (ii) Data files
 ---------------
-Given the large of these files (about 3 gigabytes), they are uploaded on my Google Drive folder that is accessible to public (path: https://drive.google.com/drive/folders/1-luzIfzgR8E-1Uped4bcc6XwHxXsEAtH?usp=sharing) \
+Given the large size of these files (about 3 gigabytes), they are uploaded on my Google Drive folder that is accessible to public (path: https://drive.google.com/drive/folders/1-luzIfzgR8E-1Uped4bcc6XwHxXsEAtH?usp=sharing) \
 \
 [Serial # - File name] \
 01 - steam_reviews.csv \
